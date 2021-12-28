@@ -9,5 +9,8 @@
     "keywords": [],
     "author": "",
     "license": "ISC",
-    "type": "module"
+    "type": "module",
+    "dependencies": {
+        "particle-api-js": "^9.1.2"
+    }
 }
